@@ -1,0 +1,18 @@
+{
+  "name": "nb-js-algorithm",
+  "version": "1.0.0",
+  "description": "牛逼js算法集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "flytam",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.3333",
+    "@types/jest": "^23.3.12",
+    "@types/node": "^10.10.3"
+  }
+}

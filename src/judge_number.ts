@@ -1,0 +1,1 @@
+export const isOdd = (number:number):boolean => /(1|3|5|7|9)$/.test(String(number))
